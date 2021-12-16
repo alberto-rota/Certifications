@@ -1,1 +1,1 @@
-# Reposittory of Certifications for Alberto Rota
+# Repository of Certifications for Alberto Rota
